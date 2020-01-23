@@ -26,6 +26,8 @@ public class LoginPageTest extends TestBase {
 		loginPage = new LoginPage();
 
 	}
+	
+	// To execute the testcase remover the @Ignore tag first
 
 	@Test(priority = 1)
 	@Ignore
